@@ -1,0 +1,27 @@
+.about-page {
+  
+}
+.about-page table {
+  border-spacing: 10px;
+  border-collapse: separate;
+}
+.about-page table tr {
+  border: none;
+  font-weight: bold;
+}
+.about-page table tr td {
+  vertical-align: top;
+}
+.about-page table tr td .job-title {
+  font-weight: 300;
+}
+
+.about-group {
+
+}
+.about-group h3 {
+  
+}
+.about-group p {
+  margin: 10px 0;
+}

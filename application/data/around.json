@@ -1,0 +1,291 @@
+{
+	"marunouchi-yusen-building": [{
+		"title": "Tokyo Station",
+		"description": "Tokyo station is a transportation hub that is not only convenient but prestigious",
+		"jaTitle": "東京駅",
+		"jaDescription": "東京駅は日本最大のターミナルで歴史ある駅舎は重要文化財に指定されています",
+		"url": "area-around1.jpg"
+	}, {
+		"title": "Marunouchi Naka-Dori Street",
+		"description": "Nakadori features the world\u0027s leading luxury select shops",
+		"jaTitle": "丸の内仲通り",
+		"jaDescription": "街路樹が美しい丸の内仲通り沿いには有名ブランドショップが立ち並んでいます",
+		"url": "area-around2.jpg"
+	}, {
+		"title": "Wadakura fountain park",
+		"description": "Wadakura fountain park was remade to celebrate the royal wedding",
+		"jaTitle": "和田倉噴水公園",
+		"jaDescription": "和田倉噴水公園には大噴水のほかに水のモニュメントやレストランがあります",
+		"url": "area-around3.jpg"
+	}],
+	"marunouchi-trust-tower-main": [{
+		"title": "Marunouchi Business District",
+		"description": "Marunouchi is the center of Japanese business, and home to many corporations",
+		"jaTitle": "経済の中心地",
+		"jaDescription": "丸の内は日本の金融・経済の中心地で数多くの大手企業が本社を構えています",
+		"url": "marunouchi.jpg"
+	}, {
+		"title": "Yaechika",
+		"description": "Yaechika, connected to Tokyo station, features countless shops and restaurants",
+		"jaTitle": "八重洲地下街",
+		"jaDescription": "八重洲地下街（ヤエチカ）は都内最大級の商店街で東京駅とも直結しています",
+		"url": "yaechika.jpg"
+	}, {
+		"title": "Daimaru Department Store",
+		"description": "Daimaru offers a wide range of shops featuring the latest new trends",
+		"jaTitle": "大丸東京店",
+		"jaDescription": "大丸東京店には食品からファッション、レストランまで多彩に揃います",
+		"url": "daimaru2.jpg"
+	}],
+	"otemachi-tokyo-sankei-building": [
+		{
+			"title": "Otemachi Financial District",
+			"description": "Otemachi is home to the headquarters of many banking, trading, and PR firms",
+			"jaTitle": "経済の中心地",
+			"jaDescription": "大手町は銀行・商社・マスコミの本社が集積する日本を代表するオフィス街です",
+			"url": "otamechi.jpg"
+		},
+		{
+			"title": "Otemachi Tower \/ Aman Tokyo",
+			"description": "Aman\u0027s first city hotel, Aman Tokyo, opened its doors in Otemachi Tower",
+			"jaTitle": "アマン東京",
+			"jaDescription": "アマンリゾート初のシティホテル「アマン東京」が大手町タワーに開業しました",
+			"url": "The_Otemachi_Tower.jpg"
+		},
+		{
+			"title": "Iliad Japan",
+			"description": "Famous art such as Iliad Japan is exhibited at Sankei Building",
+			"jaTitle": "イリアッド・ジャパン",
+			"jaDescription": "サンケイビルには「イリアッド・ジャパン」などのアートが展示されています",
+			"url": "21789180575_691c61b80e_b.jpg"
+		}
+	],
+	"nihonbashi-wakamatsu-building": [{
+		"title": "Bank of Japan",
+		"description": "Bank of Japan is a large pillar in Japanese finance as well as a famous cultural site",
+		"jaTitle": "日本銀行本店",
+		"jaDescription": "日本銀行本店は辰野金吾により設計され、現在は重要文化財に指定されています",
+		"url": "Bank_of_Japan_2010.jpg"
+	}, {
+		"title": "Nihonbachi Bridge",
+		"description": "Nihonbashi bridge, first built in 1603, shows area\u0027s rich history",
+		"jaTitle": "日本橋",
+		"jaDescription": "日本橋には日本の道路元標があり、日本の道路網の始点となっています",
+		"url": "pixta_22173510_L.jpg"
+	}, {
+		"title": "Nihonbashi Mitsui Tower",
+		"description": "Nihonbashi Mitsui Tower is home to the luxurious Mandarin Oriental, Tokyo Hotel",
+		"jaTitle": "日本橋三井タワー",
+		"jaDescription": "日本橋三井タワーにはマンダリン・オリエンタル東京などが入居しています",
+		"url": "5426243_L.jpg"
+	}],
+	"hibiya-central-building": [{
+		"title": "Hibiya Park",
+		"description": "Hibiya Park is one of Japan\u0027s most famous parks and holds various events",
+		"jaTitle": "日比谷公園",
+		"jaDescription": "日比谷公園は日本有数の公園で年間を通じて様々なイベントも開催されています",
+		"url": "Hibiya_Park_Fountain.jpg"
+	}, {
+		"title": "National Diet Building",
+		"description": "Completed in 1936, the National Diet Building houses both the lower and upper houses",
+		"jaTitle": "国会議事堂",
+		"jaDescription": "国会議事堂は1936年に竣工、左に衆議院、右に参議院が配置されています",
+		"url": "Diet_of_Japan_Kokkai_2009.jpg"
+	}, {
+		"title": "Ginza",
+		"description": "Within walking distance to Ginza, one of Japan\u0027s most famous shopping districts",
+		"jaTitle": "銀座",
+		"jaDescription": "日本有数の繁華街で高級商業地である「銀座」も徒歩圏内です",
+		"url": "iStock_39503972_LARGE.jpg"
+	}],
+	"tri-seven-roppongi": [{
+		"title": "Tokyo Mid town",
+		"description": "Tokyo Midtown is a mixed-used development which boasts having the tallest tower downtown",
+		"jaTitle": "東京ミッドタウン",
+		"jaDescription": "東京ミッドタウンは複数の施設から構成され、タワーは都内最高層を誇ります",
+		"url": "17195639.jpg"
+	}, {
+		"title": "Midtown Garden",
+		"description": "Midtown Garden is an oasis inside the bustle of downtown",
+		"jaTitle": "ミッドタウンガーデン",
+		"jaDescription": "ミッドタウンガーデンはビジネス街のオアシスとして親しまれています",
+		"url": "iStock_000039499538_Large.jpg"
+	}, {
+		"title": "Tenso Shrine",
+		"description": "Tenso Shrine is connected to Tri-Seven by a shared plaza rich in greenery",
+		"jaTitle": "天祖神社",
+		"jaDescription": "福禄寿を奉る天祖神社に隣接、境内につながる緑豊かな広場を共有しています",
+		"url": "tenso.jpg"
+	}],
+	"shiodome-shibarikyu-building": [{
+		"title": "Kyu Shiba Rikyu Garden",
+		"description": "Gaze down at the views of Kyu Shiba Rikyu Garden, a former imperial garden",
+		"jaTitle": "芝離宮恩賜庭園",
+		"jaDescription": "眼下には旧芝離宮恩賜庭園が広がるほか、浜離宮恩賜庭園からも至近です",
+		"url": "1024px-Shiba-Rikyu-Garden-01.jpg"
+	}, {
+		"title": "Tokyo Monorail",
+		"description": "Tokyo Monorail provides convenient and direct access to Haneda Airport",
+		"jaTitle": "東京モノレール",
+		"jaDescription": "最寄の浜松町駅は東京モノレールの始発駅で羽田空港へのアクセスも良好です",
+		"url": "Tokyo_Monorail_2031_Showajima_20060521.jpg"
+	}, {
+		"title": "Tokyo bay and Rainbow Bridge",
+		"description": "Gaze out at Tokyo Bay and Rainbow Bridge, some of Japan\u0027s most glorious views",
+		"jaTitle": "レインボーブリッジ",
+		"jaDescription": "眼前に広がる東京湾とレインボーブリッジの夜景を望むことができます",
+		"url": "Tokyo_odaiba.jpg"
+	}],
+	"shiroyama-trust-tower": [{
+		"title": "Hotel Okura",
+		"description": "Hotel Okura is a popular spot for dignitaries, celebrities and VIPs",
+		"jaTitle": "ホテルオークラ",
+		"jaDescription": "ホテルオークラ東京は世界のVIPも利用する日本を代表するホテルです",
+		"url": "1280px-Hotel_Okura_Tokyo.jpg"
+	}, {
+		"title": "Ark Hills \/ Sakurazaka",
+		"description": "The area around Ark Hills is famous for it\u0027s sakura trees and events are held anually",
+		"jaTitle": "アークヒルズ",
+		"jaDescription": "アークヒルズ周辺は桜の名所として有名で毎年イベントが開催されています",
+		"url": "17403767.jpg"
+	}, {
+		"title": "Embassy of the United States",
+		"description": "The American Embassy and countless other foreign government offices are gathered here",
+		"jaTitle": "アメリカ大使館",
+		"jaDescription": "アメリカ大使館をはじめ、近隣には多くの大使館や在外公館が集積しています",
+		"url": "Embassy-of-the-United-States-of-America-in-Japan-01.jpg"
+	}],
+	"shinagawa-intercity-tower-a": [{
+		"title": "Shinagawa Konan business district",
+		"description": "Recently redeveloped, Shinagawa Konan has become one of Tokyo\u0027s leading business areas",
+		"jaTitle": "品川港南",
+		"jaDescription": "品川港南は近年の再開発によって都内でも有数のビジネス街となりました",
+		"url": "14056413.jpg"
+	}, {
+		"title": "Shinagawa station",
+		"description": "Shinagawa Station is popular for its access to Haneda airport and the linear bullet train line",
+		"jaTitle": "品川駅",
+		"jaDescription": "品川駅は羽田空港へのアクセスも容易でリニア新幹線の始発駅としても話題です",
+		"url": "iStock_000039278288_Large.jpg"
+	}, {
+		"title": "Shinkansen",
+		"description": "The Tokaido Bullet-train line provides access to west Japan as well as the Chubu region",
+		"jaTitle": "東海道新幹線",
+		"jaDescription": "品川駅は東海道新幹線の停車駅で中部・西日本エリアへの玄関口でもあります",
+		"url": "Shinkansen_N700_z15.jpg"
+	}],
+	"aoyama-palacio-tower": [{
+		"title": "Omotesando",
+		"description": "Created as a path to Meiji Shrine, Ometesando is a breathtaking tree-lined street",
+		"jaTitle": "表参道",
+		"jaDescription": "表参道は明治神宮の参道として整備され街路樹のケヤキ並木が美しい通りです",
+		"url": "Omotesando_Hills_005.jpg"
+	}, {
+		"title": "Omotesando shopping district",
+		"description": "Omotesando is also lined with famous flagship brandname stores from all over the world",
+		"jaTitle": "表参道買い物道",
+		"jaDescription": "表参道には日本国内外の有名ブランド旗艦店が集積していることでも有名です",
+		"url": "iStock_000083344443_Full.jpg"
+	}, {
+		"title": "Meiji Shrine",
+		"description": "Meiji Shrine boasts more visitors than any other temple during the New Year\u0027s holiday",
+		"jaTitle": "明治神宮",
+		"jaDescription": "明治神宮は日本一の初詣参拝者数を誇り、神宮の杜は都民に親しまれています",
+		"url": "Meiji_Shrine_2012.jpg"
+	}],
+	"yebisu-garden-place-tower": [{
+		"title": "Westin Tokyo",
+		"description": "The Westin Tokyo is a luxury European-style hotel",
+		"jaTitle": "ウェスティンホテル",
+		"jaDescription": "ウェスティンホテル東京はヨーロピアンスタイルのラグジュアリーホテルです",
+		"url": "768px-TheWestinTokyo2.jpg"
+	}, {
+		"title": "Joël Robuchon",
+		"description": "Joël Robuchon, boasting 3 stars from Michelin, is one of the cities most prominent restaurants",
+		"jaTitle": "ジョエル・ロブション",
+		"jaDescription": "ジョエル・ロブションはミシュラン3つ星に輝く都内でも屈指の名店です",
+		"url": "joel.jpg"
+	}, {
+		"title": "Meguro River",
+		"description": "Famous for its Sakura trees, Nakameguro River is a relaxing place for walks",
+		"jaTitle": "目黒川",
+		"jaDescription": "桜の名所として有名な目黒川は徒歩圏内です",
+		"url": "Meguro_River_Spring_2014(1).jpg"
+	}],
+	"shinjuku-nomura-building": [{
+		"title": "Nishi Shinjuku Business District",
+		"description": "Built as an urban subcenter, West Shinjuku has become Japan\u0027s largest business district",
+		"jaTitle": "西新宿",
+		"jaDescription": "新宿副都心として開発された西新宿は日本最大級のオフィス街を形成しています",
+		"url": "iStock_000086262409_Full.jpg"
+	}, {
+		"title": "Tokyo Metropolitan Government Building",
+		"description": "The Metropolitan Government Building acts as the hub of the Toyko government",
+		"jaTitle": "東京都庁舎",
+		"jaDescription": "東京都庁舎は丹下健三による設計で、都の行政の中枢機能を担っています",
+		"url": "iStock_000061709380_Large.jpg"
+	}, {
+		"title": "Shinjuku Skyscraper",
+		"description": "The West Shinjuku skyline has Japan\u0027s tallest buildings. Over 30 are over 100m tall.",
+		"jaTitle": "新宿の超高層ビル",
+		"jaDescription": "西新宿は100m以上の超高層ビルが30棟以上ある日本最大のビル街です",
+		"url": "shinjuku.jpg"
+	}],
+	"shinjuku-oak-city": [{
+		"title": "Nishi Shinjuku Business District",
+		"description": "Built as an urban subcenter, West Shinjuku has become Japan\u0027s largest business district",
+		"jaTitle": "西新宿",
+		"jaDescription": "新宿副都心として開発された西新宿は日本最大級のオフィス街を形成しています",
+		"url": "iStock_000086262409_Full.jpg"
+	}, {
+		"title": "Tokyo Metropolitan Government Building",
+		"description": "The Metropolitan Government Building acts as the hub of the Toyko government",
+		"jaTitle": "東京都庁舎",
+		"jaDescription": "東京都庁舎は丹下健三による設計で、都の行政の中枢機能を担っています",
+		"url": "iStock_000061709380_Large.jpg"
+	}, {
+		"title": "Shinjuku Skyscraper",
+		"description": "The West Shinjuku skyline has Japan\u0027s tallest buildings. Over 30 are over 100m tall.",
+		"jaTitle": "新宿の超高層ビル",
+		"jaDescription": "西新宿は100m以上の超高層ビルが30棟以上ある日本最大のビル街です",
+		"url": "shinjuku.jpg"
+	}],
+	"sunshine-city": [{
+		"title": "Sunshine Aquarium",
+		"description": "The Sunshine Aquariam is Japan\u0027s first rooftop aquairum popular for its original events",
+		"jaTitle": "サンシャイン水族館",
+		"jaDescription": "サンシャイン水族館は日本初の屋上水族館で趣向を凝らしたイベントが人気です",
+		"url": "6208129464_c71363c91b_b.jpg"
+	}, {
+		"title": "Ikebukuro station and Seibu Ikebukuro",
+		"description": "Ikebukuro Station is one of the world\u0027s prolific stations boasting eight different lines",
+		"jaTitle": "池袋駅",
+		"jaDescription": "池袋駅は8路線が乗り入れる世界有数のターミナル駅です",
+		"url": "Ikebukuro_Station.jpg"
+	}, {
+		"title": "Tokyo Metropolitan Art Space",
+		"description": "Tokyo\u0027s Metropolitan Art Space features both classic Japanese and Western plays",
+		"jaTitle": "東京芸術劇場",
+		"jaDescription": "東京芸術劇場は芸術文化振興の拠点としてクラシックや演劇が催されています",
+		"url": "Tokyo_Metropolitan_Art_Space_01.jpg"
+	}],
+	"servcorp-tokyo-big-sight-ariake-frontier-building": [{
+		"title": "Tokyo Big Sight",
+		"description": "Tokyo Big Sight is the largest convention center in Japan",
+		"jaTitle": "東京国際展示場",
+		"jaDescription": "東京国際展示場（東京ビッグサイト）は日本最大のコンベンションセンターです",
+		"url": "20030727_27_July_2003_Tokyo_International_Exhibition_Center_Big_Sight_Odaiba_Tokyo_Japan.jpg"
+	}, {
+		"title": "Odaiba",
+		"description": "Odaiba is a prominent area for shopping and is always bustling with travellers and tourists",
+		"jaTitle": "お台場エリア",
+		"jaDescription": "お台場エリアはショッピング施設が次々と開業し観光地として賑わっています",
+		"url": "Odaiba_night.jpg"
+	}, {
+		"title": "Ariake Coliseum",
+		"description": "Ariake Coliseum holds the national tennis tournament every year",
+		"jaTitle": "有明コロシアム",
+		"jaDescription": "有明コロシアムはテニス競技場として有名で多くの国際大会が開催されています",
+		"url": "Ariake_Colosseum.jpg"
+	}]
+}

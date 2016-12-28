@@ -1,0 +1,22 @@
+{
+	"tokyo": {
+		"en": "Tokyo",
+		"jp": "東京"
+	},
+	"yokohama": {
+		"en": "Yokohama",
+		"jp": "横浜"
+	},
+	"osaka": {
+		"en": "Osaka",
+		"jp": "大阪"
+	},
+	"nagoya": {
+		"en": "Nagoya",
+		"jp": "名古屋"
+	},
+	"fukuoka": {
+		"en": "Fukuoka",
+		"jp": "福岡"
+	}
+}
